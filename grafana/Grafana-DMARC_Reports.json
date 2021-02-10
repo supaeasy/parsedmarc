@@ -5,19 +5,19 @@
       "type": "datasource",
       "id": "elasticsearch",
       "name": "Elasticsearch",
-      "version": "1.0.0"
+      "version": "7.10.2"
     },
     {
       "type": "grafana",
       "id": "grafana",
       "name": "Grafana",
-      "version": "7.1.1"
+      "version": "7.4.0"
     },
     {
       "type": "panel",
       "id": "grafana-piechart-panel",
       "name": "Pie Chart",
-      "version": "1.5.0"
+      "version": "1.6.1"
     },
     {
       "type": "panel",
@@ -611,7 +611,7 @@
       "renderer": "flot",
       "seriesOverrides": [],
       "spaceLength": 10,
-      "stack": true,
+      "stack": false,
       "steppedLine": false,
       "targets": [
         {
@@ -4289,7 +4289,7 @@
     ]
   },
   "time": {
-    "from": "now-30d",
+    "from": "2020-12-24",
     "to": "now"
   },
   "timepicker": {
