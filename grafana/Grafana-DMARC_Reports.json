@@ -5,13 +5,13 @@
       "type": "datasource",
       "id": "elasticsearch",
       "name": "Elasticsearch",
-      "version": "7.10.2"
+      "version": "7.11.2"
     },
     {
       "type": "grafana",
       "id": "grafana",
       "name": "Grafana",
-      "version": "7.4.0"
+      "version": "7.4.3"
     },
     {
       "type": "panel",
@@ -3744,7 +3744,7 @@
             "indexByName": {},
             "renameByName": {
               "Count": "Count",
-              "arrival_date": "Arrival_Date(UTC)",
+              "arrival_date_utc": "Arrival_Date(UTC)",
               "auth_failure.keyword": "AuthFailure",
               "authentication_results.keyword": "Auth Results",
               "delivery_results.keyword": "DeliveryResult",
