@@ -3522,11 +3522,7 @@
             "properties": [
               {
                 "id": "unit",
-                "value": "dateTimeAsIso"
-              },
-              {
-                "id": "custom.width",
-                "value": 147
+                "value": "dateTimeAsSystem"
               }
             ]
           },
