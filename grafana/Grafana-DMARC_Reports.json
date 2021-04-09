@@ -5,7 +5,7 @@
       "type": "datasource",
       "id": "elasticsearch",
       "name": "Elasticsearch",
-      "version": "7.11.2"
+      "version": "7.12.0"
     },
     {
       "type": "grafana",
